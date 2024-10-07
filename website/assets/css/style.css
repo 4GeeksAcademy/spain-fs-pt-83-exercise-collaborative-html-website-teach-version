@@ -2,6 +2,9 @@ body{
     background: #BDBDBD;
 }
 
+.nav-container {
+    background-color: rosybrown;
+}
 .services-container {
     background-color: aqua
 }
